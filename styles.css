@@ -1,0 +1,152 @@
+nav{
+    align-items: center;
+
+}
+
+
+.header{ 
+    align-items: center;
+    margin-bottom: 0px;
+  
+    
+}
+.banner{
+    color: #FFFFFF;
+    align-items: center;
+    padding-top: 30px;
+}
+   
+.bannercontent{ margin-left: 600px;
+    margin-bottom: 0px;
+    background-image: url("./resources/Banner\ Image.png"); 
+    width: 1320px;
+    height: 600px;
+    text-align: center;
+    padding-top: 100px;
+    font-size: 40px;
+    background-position: 1320px;
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center
+}
+.off{ color: red;
+text-align: center;
+font-size: 88px;}
+.our{align-items: center;
+    text-align: center;
+   font-size: 40px;}
+.Welcome{ 
+    padding-left: 100px;
+    padding-top: 50px;
+    margin-left: 600px;
+    width: 1320px;
+    height: 600px;
+    color: #FFFFFF;
+    font-size: 50px;
+    text-align: left;
+    
+    background-image: url("./resources/Vectorrr.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    }   
+.para{
+    font-size: 18px;}
+.when{
+    border-radius: 20px;
+    margin: 100px auto;
+    width: 1320px;
+    max-height: 480px;
+    padding: 100px;
+    text-align: center;
+    background-color: rgb(192, 148, 148);
+   font-size: 50px;
+   
+}    
+.blog{
+    margin: 20px auto;
+    max-width: 1320px;
+    max-height: 986.07px;
+    
+
+    text-align: center;
+      font-size: 30px;  
+      background-repeat: no-repeat;
+      background-position: right;
+    background-image: url(./resources/Rectangle\ 2.png); 
+    background-image: url(./resources/Rectangle\ 1.png);   }
+.photo{ margin: 20px auto;
+        max-width: 1320px;
+        max-height: 7335px;
+        padding: 50px;
+
+}   
+.allrec{ display: flex;
+max-width: 1320px;}
+.best{ max-width: 1320px;
+max-height: 484px;
+font-size: 40px;} 
+.rectangle{margin: 20px;
+    }
+.subscribe{
+    margin: 0px auto;
+    border: 30px;
+    padding: 200px;
+    align-items: center;
+    max-width: 1320px;
+    max-height: 616px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+} 
+.news{ 
+color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}   
+.butt{width: 648px;
+    height: 72px;
+    flex-shrink: 0;
+    
+    background: #FFF;
+    margin: 0px auto;}
+.button{
+    padding: 2px;  
+    width: 210px;
+    height: 72px;
+    color: #FFF;
+    text-align: center ;
+    background: #F00;
+    border-radius: 50px;
+    font-size: large;
+}
+.ending{ 
+    margin: 50px auto;
+    width: 1600px;
+    height: 609px;
+    top: 6726.07px;
+    background-color: #070211;
+    font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 40px;
+letter-spacing: 0em;
+text-align: left;}
+
+  
+.address{ 
+    padding: 50px; 
+    display:flex;
+    
+color: #FFF;}    
+.icon{ display: flex;
+gap: 40px;
+width: 64px;
+height: 64px;
+
+margin: 0px auto;
+}
